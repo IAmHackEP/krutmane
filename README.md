@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @IAmHackEP
-- 👀 I’m interested in Hacking and music
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @krutmane
+- 👀 I’m interested in Hacking, music and developing
+- 🌱 I’m currently learning C#, C++, Java, javaScript, Python.
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
 
 <!---
 IAmHackEP/IAmHackEP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
